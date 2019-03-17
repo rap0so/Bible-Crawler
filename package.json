@@ -1,0 +1,15 @@
+{
+  "name": "savebible",
+  "version": "1.0.0",
+  "description": "Script to get bible data by book",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "William G",
+  "license": "ISC",
+  "dependencies": {
+    "crawler": "^1.2.0",
+    "html-pdf": "^2.2.0"
+  }
+}

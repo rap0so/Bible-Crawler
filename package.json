@@ -9,7 +9,7 @@
   "author": "William G",
   "license": "ISC",
   "dependencies": {
-    "crawler": "^1.2.0",
+    "crawler": "^1.2.1",
     "html-pdf": "^2.2.0"
   }
 }

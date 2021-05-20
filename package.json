@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "crawler": "^1.2.1",
-    "html-pdf": "^2.2.0"
+    "html-pdf": "^3.0.1"
   }
 }
